@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV010/app/src/main/res/layout/activity_angle.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV011/app/src/main/res/layout/activity_break.xml" value="0.2" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV011/app/src/main/res/layout/activity_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV011/app/src/main/res/layout/activity_sbreak.xml" value="0.4" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_air.xml" value="0.25" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_angle.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_angle_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_break.xml" value="0.4" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_break_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_chache.xml" value="0.24947916666666667" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_dangle.xml" value="0.4" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_dangle_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_force.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_force_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_hforce.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_logo2.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_menu.xml" value="0.2341485507246377" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sair.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sangle.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sbreak.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sbreak_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_service.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_set.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sforce.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_shforce.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sound.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sset.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_ssound.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_ssound_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sstail_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sstep.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_sstep_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_stail.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_storque.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_storque_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV012/app/src/main/res/layout/activity_torque.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_air.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_angle.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_angle_save.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_break.xml" value="0.2" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_break_save.xml" value="0.18541666666666667" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_chache.xml" value="0.2635416666666667" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_dangle.xml" value="0.2" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_dangle_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_force.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_force_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_hforce.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_hforce_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_logo2.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_menu.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sair.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sangle.xml" value="0.2" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sangle_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sbreak.xml" value="0.2" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sbreak_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_service.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_set.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sforce.xml" value="0.2" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sforce_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_shforce.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_shforce_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sight.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_smarker.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sound.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sound_save.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sset.xml" value="0.19739583333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_ssound.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_ssound_save.xml" value="0.3098958333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sstail_save.xml" value="0.3098958333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sstep.xml" value="0.3098958333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_sstep_save.xml" value="0.3098958333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_stail.xml" value="0.3098958333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_storque.xml" value="0.3098958333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_storque_save.xml" value="0.3098958333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_torque.xml" value="0.36614583333333334" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/activity_torque_save.xml" value="0.264" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/angle_list.xml" value="0.2578125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/bonddevice_item.xml" value="0.2578125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/force_list.xml" value="0.2911458333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/item.xml" value="0.2578125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/item_recycler_main.xml" value="0.2578125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/layout_chache.xml" value="0.2635416666666667" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/save_list.xml" value="0.2578125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV013/app/src/main/res/layout/torque_list.xml" value="0.2578125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_break.xml" value="0.36614583333333334" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_dangle.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_force.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_sbreak.xml" value="0.2765625" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_sforce.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_sound.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_ssound.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/activity_torque.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/bonddevice_item.xml" value="0.23697916666666666" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/printerscan_layout.xml" value="0.23697916666666666" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV014/app/src/main/res/layout/save_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_angle.xml" value="0.2109375" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_break.xml" value="0.1875" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_break_save.xml" value="0.1703125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_force.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_force_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_hforce.xml" value="0.2078125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_hforce_save.xml" value="0.2078125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_menu.xml" value="0.1625" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_sbreak_save.xml" value="0.1703125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_sforce.xml" value="0.2" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_sforce_save.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_shforce.xml" value="0.2125" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/activity_sstep.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV015/app/src/main/res/layout/layout_dialog_zh.xml" value="0.20833333333333334" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV016/app/src/main/res/layout/activity_chache.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV016/app/src/main/res/layout/activity_sight.xml" value="0.25364583333333335" />
+        <entry key="..\:/0RuiGuan/CCZH/01Code/CCZHV016/app/src/main/res/layout/activity_sstep.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
