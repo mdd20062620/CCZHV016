@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border_gray"
+    android:orientation="vertical"
+    tools:ignore="MissingPrefix">
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@color/white"
+        android:gravity="left|center_vertical"
+        android:drawablePadding="5dp"
+        android:padding="5dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="16sp"
+        tools:text="测试前准备：" />
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="@color/white"
+        android:drawablePadding="5dp"
+        android:gravity="left|center_vertical"
+        android:padding="5dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="14sp"
+        tools:text="" />
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:background="@color/white"
+        android:drawablePadding="5dp"
+        android:gravity="left|center_vertical"
+        android:padding="5dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="14sp"
+        tools:text="" />
+       <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:background="@color/white"
+        android:drawablePadding="5dp"
+        android:gravity="left|center_vertical"
+        android:padding="5dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="14sp"
+        tools:text="" />
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="40dp"
+        android:layout_weight="2"
+        android:background="@color/white"
+        android:drawablePadding="5dp"
+        android:gravity="left|center_vertical"
+        android:padding="5dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="14sp"
+        tools:text="" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="2"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/button_cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:text="取   消"
+            android:background="@color/white"
+            android:textColor="@color/colorAccent"
+            android:textSize="14sp"
+            fontPath="fonts/楷体.ttf" />
+        <Button
+            android:id="@+id/button_ok"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:text="确   定"
+            android:background="@color/white"
+            android:textColor="@color/colorAccent"
+            android:textSize="14sp"
+            fontPath="fonts/楷体.ttf"  />
+    </LinearLayout>
+</LinearLayout>

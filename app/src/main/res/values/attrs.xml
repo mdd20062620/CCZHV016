@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>平衡重式叉车</item>
+        <item>三向堆垛叉车 </item>
+        <item>侧面式叉车</item>
+        <item>前移式叉车</item>
+        <item>插腿式叉车</item>
+        <item>托盘堆垛车</item>
+    </string-array>
+    <string-array name="angle">
+        <item>最大转向角</item>
+        <item>前轮外倾角 </item>
+        <item>主销后倾角</item>
+        <item>主销内倾角</item>
+    </string-array>
+
+    <string-array name="group">
+        <item>A1:除A2、B、和C组外的所有车辆，额定起重量/载重量＜16000kg或满载质量＜35000kg，两者取较大值
+        </item>
+        <item>A2:除B和C组外的所有车辆，额定起重量/载重量≥16000kg或满载质量≥35000kg
+        </item>
+        <item>B1:单轮制动或双轮制动牵引车
+        </item>
+        <item>B2:三轮制动或四轮制动的牵引车
+        </item>
+        <item>C:操作台可升至1200mm以上的车辆和专门设计的带起升载荷运行的车辆
+        </item>
+        <item>D:越野车辆
+        </item>
+    </string-array>
+
+    <string-array name="Stype">
+        <item>观光车辆</item>
+        <item>观光列车 </item>
+    </string-array>
+
+    <string-array name="Loadtype">
+        <item>空载</item>
+        <item>满载</item>
+    </string-array>
+    <!--自定义复选框-->
+    <declare-styleable name="CheckBox_Sample">
+        <attr name="size" format="dimension" />
+        <attr name="color_border" format="color" />
+        <attr name="color_background" format="color" />
+    </declare-styleable>
+
+    <!--开关-->
+    <declare-styleable name="CustomButtonView">
+        <attr name="CBCircularColor" format="color"/>
+        <attr name="CBRadius" format="dimension"/>
+        <attr name="CBChangeColor" format="color"/>
+        <attr name="CBOriginalColor" format="color"/>
+    </declare-styleable>
+
+    <!--自定义文字下划线-->
+    <declare-styleable name="UnderlineTextView">
+        <attr name="UTextWidth" format="dimension"/>
+        <attr name="UTextColor" format="color"/>
+        <attr name="UTextOriginalColor" format="color"/>
+        <attr name="UTextLineColor" format="color"/>
+    </declare-styleable>
+
+</resources>
